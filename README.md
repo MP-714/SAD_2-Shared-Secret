@@ -1,2 +1,8 @@
-# SAD_2-Shared-Secret
- Code Secret Demo - Using Fake Secrets
+# DEMO PURPOSE ONLY
+### Secure Application Development <br>
+Assignment 4 Node Secrets  <br>
+Code Secret Demo - Using Fake Secrets
+
+
+
+## REPO 2 _ SHARED SECRET  
